@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idagiifi.github.io/HUA/sitemap_index.txt.gz
+Sitemap: https://idagiifi.github.io/KAV/sitemap_index.txt.gz
+Sitemap: https://idagiifi.github.io/KnQ/sitemap_index.txt.gz
+Sitemap: https://idagiifi.github.io/hLy/sitemap_index.txt.gz
+Sitemap: https://idagiifi.github.io/mkb/sitemap_index.txt.gz
